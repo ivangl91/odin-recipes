@@ -1,0 +1,1 @@
+# This is a basic html project to put in use what I learned in the first steps through odin project course
